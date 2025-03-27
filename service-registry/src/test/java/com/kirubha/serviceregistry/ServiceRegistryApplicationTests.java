@@ -1,10 +1,10 @@
-package com.kirubha.productservice;
+package com.kirubha.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class ServiceRegistryApplicationTests {
 
 	@Test
 	void contextLoads() {

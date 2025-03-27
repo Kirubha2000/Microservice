@@ -1,10 +1,10 @@
-package com.kirubha.productservice;
+package com.kirubha.notificationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class NotificationServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

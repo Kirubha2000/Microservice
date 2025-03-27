@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kirubha</groupId>
-	<artifactId>product-service</artifactId>
+	<artifactId>payment-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>product-service</name>
-	<description>Product Service</description>
+	<name>payment-service</name>
+	<description>Payment Service</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -1,10 +1,10 @@
-package com.kirubha.productservice;
+package com.kirubha.paymentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class PaymentServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

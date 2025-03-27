@@ -1,10 +1,10 @@
-package com.kirubha.productservice;
+package com.kirubha.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class ConfigServerApplicationTests {
 
 	@Test
 	void contextLoads() {

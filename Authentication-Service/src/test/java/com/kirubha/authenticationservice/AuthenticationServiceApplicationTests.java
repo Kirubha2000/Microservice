@@ -1,10 +1,10 @@
-package com.kirubha.productservice;
+package com.kirubha.authenticationservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductServiceApplicationTests {
+class AuthenticationServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
