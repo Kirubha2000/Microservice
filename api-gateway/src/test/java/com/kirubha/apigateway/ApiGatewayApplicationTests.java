@@ -1,10 +1,10 @@
-package com.kirubha.userservice;
+package com.kirubha.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserService1ApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
