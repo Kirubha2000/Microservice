@@ -7,5 +7,7 @@ import com.kirubha.productservice.entity.Product;
 
 @Repository
 public interface ProductRepository extends JpaRepository<Product, Long>{
+
+	boolean existsByName(String name);
 	
 }
